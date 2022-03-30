@@ -1,0 +1,20 @@
+{
+  "name": "crypto-address-converter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bs58": "^5.0.0",
+    "ethereum-private-key-to-address": "^0.0.7",
+    "multicoin-address-validator": "^0.5.8",
+    "tronweb": "^4.1.0"
+  },
+  "keywords": [
+    "Tron","Ethereum","XINFIN","WELUPS","EVM Address","crypto-address-converter","Address Converter","crypto address converter","shivapendem"
+  ],
+  "author": "shivapendem",
+  "license": "ISC"
+}
