@@ -1,7 +1,7 @@
 {
   "name": "crypto-address-converter",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.2.0",
+  "description": "npm package for address conversion form various chains customized, Currently supported EVM chains, TRON, XINFIN, WELUPS Chains. ## Installation     `npm i crypto-address-converter --save`     import {crypto-address-converter} from 'crypto-address-converter';     ```",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,8 +13,24 @@
     "tronweb": "^4.1.0"
   },
   "keywords": [
-    "Tron","Ethereum","XINFIN","WELUPS","EVM Address","crypto-address-converter","Address Converter","crypto address converter","shivapendem"
+    "Tron",
+    "Ethereum",
+    "XINFIN",
+    "WELUPS",
+    "EVM Address",
+    "crypto-address-converter",
+    "Address Converter",
+    "crypto address converter",
+    "shivapendem"
   ],
   "author": "shivapendem",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivapendem/crypto-address-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shivapendem/crypto-address-converter/issues"
+  },
+  "homepage": "https://github.com/shivapendem/crypto-address-converter#readme"
 }

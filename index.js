@@ -158,4 +158,4 @@ function convertaddress(address, from, to)
     }
   }
 }    
-module.exports = {privateKeyToTronAddress}
+module.exports = {convertaddress}
